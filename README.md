@@ -7,5 +7,5 @@
 </p>
 <h6 align="center">If you're wondering how my music personality looks like. <small>(Spoiler alert it sucks)</small></h6>
 <p align="center">
-	<a href="https://github.com/ibrahimrahhal"> <img src="https://spotify-github-profile-ibrahimrahhal.vercel.app/api/view?uid=tciyuwjpcgy4jhf&amp;cover_image=true&amp;theme=default" alt="spotify-github-profile"> </a>
+	<a href="https://github.com/ibrahimrahhal"> <img src="https://spotify-github-profile-ibrahimrahhal.vercel.app/api/view?uid=ejdwybn8cez6dct46iyl14ngc&cover_image=true&theme=default"> </a>
 </p>
